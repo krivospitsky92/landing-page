@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  background-image: url(./beach.jpg);
+  background-size: cover;
+  height:100vh;
+  font-size: 20px;
+  color: #926239;
+  text-align: center;
+}
+h1 {
+  margin-top: 400px;
+}
+.btn {
+  display: inline-block;
+  color: #926239;
+  padding: 10px 20px;
+  text-decoration-line: none;
+  border: 2px solid #926239;
+  border-radius: 15px;
+}
+.btn:hover {
+  display: inline-block;
+  color: #ffffff;
+  background-color: #704d2e;
+  padding: 10px 20px;
+  text-decoration-line: none;
+  border: 2px solid #704d2e;
+  border-radius: 15px;
+}
+.section-1 {
+  font-size:1.1em;
+  margin: 0;
+  color: #fff;
+  padding: 30px 30px;
+  text-align: justify;
+  background-color: #926239;
+}
+.section-2 {
+  font-size:1.1em;
+  margin: 0;
+  color: #926239;
+  padding: 30px 30px;
+  text-align: justify;
+  background-color: #fff;
+}
+.section-3 {
+  display: inline-block;
+  font-size:1.1em;
+  color: #926239;
+  background-color: #fff;
+  width: 33%;
+  padding: 30px 30px;
+}
+.section-4 {
+  display: inline-block;
+  font-size:1.1em;
+  text-align: justify;
+  color: #fff;
+  background-color: #926239;
+  width: 33%;
+  padding: 30px 30px;
+}
+.section-5 {
+  display: inline-block;
+  font-size:1.1em;
+  color: #926239;
+  background-color: #fff;
+  width: 33%;
+  padding: 30px 30px;
+}
